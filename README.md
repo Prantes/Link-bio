@@ -1,5 +1,3 @@
-# Link-bio
- Distribuidor de links sociais e de projetos 
 # Imagens do Projeto
 
 <img src="https://i.imgur.com/fVjx04g.png" alt="teste em mokup " width="1300" height="500">
