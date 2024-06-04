@@ -235,9 +235,9 @@ gap:0.6rem;
 .img-tread {
     width: 100%;
     height: 100px;
-    background-image: url(img/fruta.png);
+    background-image: url(img/Logo1.png);
     background-position: center;
-    background-size: 68%;
+    background-size: 100%;
     background-repeat: no-repeat;
     border-radius: 8px;
 }
