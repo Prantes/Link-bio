@@ -1,6 +1,6 @@
 # Imagens do Projeto
 
-<img src="https://i.imgur.com/fVjx04g.png" alt="teste em mokup " width="1300" height="500">
+<img src="https://i.ibb.co/wNTR2903/image.png" alt="image" border="0">
 
 # Meus Links - Lucas Prantes 
 Projeto baseado em um projeto do Ricardo Moura para centralizar links importantes e destacar habilidades e projetos. A página inclui widgets com informações pessoais, habilidades técnicas, link para redes sociais entre outros.
